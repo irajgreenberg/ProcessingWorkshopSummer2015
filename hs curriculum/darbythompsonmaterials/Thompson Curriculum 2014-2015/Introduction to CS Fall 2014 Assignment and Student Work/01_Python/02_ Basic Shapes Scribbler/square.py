@@ -1,0 +1,10 @@
+from Myro import *
+init("/dev/tty.Scribbler-DevB")
+forward(1, 0.7)
+turnRight(0.9, 0.9)
+forward(1, 0.7)
+turnRight(0.9, 0.9)
+forward(1, 0.7)
+turnRight(0.9, 0.9)
+forward(1, 0.7)
+turnRight(0.9, 0.9)

@@ -1,0 +1,42 @@
+Intro Schedule Fall 2014 (not including demonstration days)
+4 45-minute classes per week, no homework
+
+
+PYTHON:
+1 day: Writing your first reflection.  Human/Robot Exercise.  Play with Calico and Scribbler robot using reference handout and website.
+
+2 days: Quick intro to Calico, the shell and writing program files. Write programs for the scribbler to draw a square, triangle, and circle on paper.
+
+2 days: What have we learned so far?  Introduction to Functions and inputs.  Convert rectangle program into a function (one function with a size for squares, one function with two inputs - width and height).  Convert circle program into a function (given size as an input)
+
+2 days:  Introduction to IF, ELSE and ELIF statements.  FLUTE assignment
+
+1 day:  Examining the logic behind the FLUTE program demonstrating the different ways you could tackle it (all IF statements, using ELIF, nested statements, etc), reviewing the purpose of inputs to functions. Refresher on elif and else statements.  Introduction to CodingBat and using the return statement to return an answer from a function.  
+
+4 days:  Logic1 and Logic2 exercises.  Reflection #2
+
+2 days:  Instruction on Comments, print function, variables, data types, lists.  Codingbat List1 exercises.
+
+4 days:  Introduction to Loops.  List2 exercises, Warmup2 exercises.
+
+2 days:  Bouncing Ball Program
+
+2 days:  Logic puzzles (google/microsoft interview puzzle questions)
+
+1 day:  Short introduction to Java.  Converting Bouncing Ball Program to Java together.
+
+2 days:  Animated Kindergarten picture. 
+
+6 days:  Introduction to Java Arrays.  Select codingbat exercises in Java (some are repeats of Python exercises, others are new)
+
+6 days:  Introduction to Image Processing, Image Processing Part 1 & 2 Assignment
+
+3 days:  Take a picture on Photo booth and manipulate only certain areas of the picture, turning your face green.  Andy Warhol assignment
+
+4 days:  Green Screen Assignment
+
+3 days:  Ball Finding Assignment
+
+12 days:  Final Project
+1 day:  Present Final Projects
+1 day:  Make videos of Final Projects, Final reflection

@@ -1,0 +1,34 @@
+//platforms and moving platforms: x y width height type OR x y width height movetype endPosition movespeed type
+1045 670 2090 20 1
+170 545 342 20 1
+400 100 140 20 1 400 2 1
+107 418 215 20 1
+1134 537 128 20 1
+1134 264 200 20 2
+876 350 128 20 2
+1392 350 128 20 2
+2466 451 403 20 1
+1872 357 140 20 2 2017 1 2
+1968 186 128 20 2
+2170 95 237 20 2
+2868 670 356 20 1
+2971 296 467 20 1
+3416 670 153 20 2 3733 1 1
+4403 670 1192 20 1
+
+//coins: startx endx y (coins are always generated in a line)
+20 340 500
+20 200 370
+400 400 50
+
+//pepes: x y 
+1134 80
+2364 35
+400 400
+
+//enemies: x y speed(generally negative) endPosition
+1134 500 -1 50
+
+//the goal: -1 x y (the -1 is what differentiates from coins)
+-1 4689 539
+//-1 800 539

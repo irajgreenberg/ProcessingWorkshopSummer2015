@@ -1,0 +1,24 @@
+Rwanda	All ages estimate  	2013	UNAIDS_Spectrum Estimates_	Number	4535
+Rwanda	All ages estimate	2012	UNAIDS_Spectrum Estimates_	Number	4740
+Rwanda	All ages estimate	2011	UNAIDS_Spectrum Estimates_	Number	4791
+Rwanda	All ages estimate	2010	UNAIDS_Spectrum Estimates_	Number	5906
+Rwanda	All ages estimate	2009	UNAIDS_Spectrum Estimates_	Number	6941
+Rwanda	All ages estimate	2008	UNAIDS_Spectrum Estimates_	Number	7296
+Rwanda	All ages estimate	2007	UNAIDS_Spectrum Estimates_	Number	8206
+Rwanda	All ages estimate	2006	UNAIDS_Spectrum Estimates_	Number	11979
+Rwanda	All ages estimate	2005	UNAIDS_Spectrum Estimates_	Number	19107
+Rwanda	All ages estimate	2004	UNAIDS_Spectrum Estimates_	Number	20947
+Rwanda	All ages estimate	2003	UNAIDS_Spectrum Estimates_	Number	21682
+Rwanda	All ages estimate	2002	UNAIDS_Spectrum Estimates_	Number	22086
+Rwanda	All ages estimate	2001	UNAIDS_Spectrum Estimates_	Number	22186
+Rwanda	All ages estimate	2000	UNAIDS_Spectrum Estimates_	Number	21871
+Rwanda	All ages estimate	1999	UNAIDS_Spectrum Estimates_	Number	21146
+Rwanda	All ages estimate	1998	UNAIDS_Spectrum Estimates_	Number	19985
+Rwanda	All ages estimate	1997	UNAIDS_Spectrum Estimates_	Number	18403
+Rwanda	All ages estimate	1996	UNAIDS_Spectrum Estimates_	Number	16713
+Rwanda	All ages estimate	1995	UNAIDS_Spectrum Estimates_	Number	15154
+Rwanda	All ages estimate	1994	UNAIDS_Spectrum Estimates_	Number	13780
+Rwanda	All ages estimate	1993	UNAIDS_Spectrum Estimates_	Number	12585
+Rwanda	All ages estimate	1992	UNAIDS_Spectrum Estimates_	Number	11572
+Rwanda 	All ages estimate	1991	UNAIDS_Spectrum	Estimates_	10515
+Rwanda	All ages estimate	1990	UNAIDS_Spectrum Estimates_	Number	9207

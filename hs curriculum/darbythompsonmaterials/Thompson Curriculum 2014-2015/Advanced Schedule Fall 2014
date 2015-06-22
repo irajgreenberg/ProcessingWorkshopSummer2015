@@ -1,0 +1,32 @@
+Advanced Schedule Fall 2014
+4 45-minute classes per week, no homework
+
+
+3 days: Terminal & UNIX commands.  Compiling and running basic Java programs through the command line.  Unix and Java worksheet.  Going over the Unix and Java worksheet questions together.
+
+1 day: Break up into teams of two and prepare a presentation on the sort assigned to your team 
+1 day:  Group presentations of Bubble Sort, Shell Sort, Insertion Sort
+1 day:  Present Counting Sort, Bucket Sort, Merge Sort
+1 day:  Present Radix Sort, Quicksort, Selection Sort 
+
+4 days:  In groups program Merge Sort and Quicksort, then individually program Selection Sort and Bubble Sort  
+
+6 days:  Introduction to Linked Lists. Singly Linked List project
+
+4 days:  Introduction to the SWAP problem, implement swap function on the Singly Linked List
+
+5 days:  Elegant code and basic efficiency (# of operations).  Introduction to doubly linked list.  Doubly Linked List project
+
+2 days:  Introduce Big O notation.  Introduce recurrence relations.
+
+6 days:  Introduction to Trees.  Tree project
+
+4 days:  Introduction to Generics.  Convert Tree to be generic and add a toString function to the TNode/TreeNode class.  Convert Doubly Linked List to be generic and add a toString function to the Node class and change the print function in the LinkedList class to be toString.
+
+6 days:  Introduction to Graphs.  Graph Program
+
+2 days:  Dijkstra's Algorithm and A* 
+5 days:  Introduce terminology: backtracking and tail recursion.  N Queens Problem in pairs
+
+1 day:  Dynamic Programming (see reference handouts for slides and programs from class)
+6 days:  Sudoku Solver

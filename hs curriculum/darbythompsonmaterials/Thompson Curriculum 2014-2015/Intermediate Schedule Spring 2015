@@ -1,0 +1,29 @@
+Intermediate Schedule Spring 2015
+4 45-minute classes per week, no homework
+
+1 day: Introduction to objects.  Re-create your bouncing ball program by defining a Ball class which has a move function.
+
+2 days:  SeaCreature assignment 
+
+10 days:  Introduction to Space Invaders Project.  Create framework:  What Classes will you need?  What properties and abilities will they each need?  Space Invaders Project
+
+6 days:  Introduction to File I/O. Data Visualization Project
+
+1 day:  Introduction to interfaces.  Compile all converted fishies into interface example. 
+
+6 days:  Introduce and begin interface project:  Paint Program.  Introduce mouse functions (listeners/event driven vs polling).
+
+1 day:  Introduction to INHERITANCE, POLYMORPHISM, and abstract classes in general
+
+1 day:  Modify your SeaCreature to use inheritance.  Write reflection
+1 day:  Peer program evaluation (space invaders and paint program)
+4 days:  Introduction to Recursion.  Recursion codingBat exercises.  Towers of Hanoi group problem.
+9 days:  Introduction to Encapsulation.  Introduce static and final keywords.  Robot Maze assignment. (last day is to go over the solutions)
+
+2 days:  Multiple-choice questions together (self-evaluation using some AP questions)
+
+1 day:  Logic Gates Lab
+
+3 days:  Introduction to Computer Security.  Introduction to cryptography.  Programming and breaking the Caesar Cipher,  Try breaking the affine cipher with a clue.   Go over the code for caesar cipher encryption/decryption.
+
+12 days:  Final Project
