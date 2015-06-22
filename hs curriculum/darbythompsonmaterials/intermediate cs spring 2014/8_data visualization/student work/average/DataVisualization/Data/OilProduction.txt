@@ -1,0 +1,20 @@
+1	 Russia	10,900,000	13.28%	2013 est.
+2	 Saudi Arabia	9,900,000	12.65%	2013 est.
+3	 United States	8,453,000	9.97%	2013 est.
+4	 Iran	4,231,000	4.77%	2013 est.
+5	 China	4,073,000	4.56%	2013 est.
+6	 Canada	3,592,000	3.90%	2013 est.
+7	 Iraq	3,400,000	3.75%	2013 est.
+8	 United Arab Emirates	3,087,000	3.32%	2013 est.
+9	 Venezuela	3,023,000	4.74%	2013 est.
+10	 Mexico	2,934,000	3.56%	2013 est.
+11	 Kuwait	2,682,000	2.96%	2013 est.
+12	 Brazil	2,633,000	3.05%	2013 est.
+13	 Nigeria	2,525,000	2.62%	2013 est.
+14	 Norway	1,998,000	2.79%	2013 est.
+15	 Algeria	1,885,000	2.52%	2013 est.
+16	 Angola	1,840,000	2.31%	2013 est.
+17	 Kazakhstan	1,635,000	1.83%	2013 est.
+18	 Qatar	1,631,000	1.44%	2013 est.
+19	 United Kingdom	1,099,000	1.78%	2011 est.
+20	 Colombia	1,011,992	0.97%	2013 est.

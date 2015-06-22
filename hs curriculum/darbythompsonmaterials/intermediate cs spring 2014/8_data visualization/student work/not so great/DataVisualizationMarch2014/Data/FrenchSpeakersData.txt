@@ -1,0 +1,29 @@
+1.	 Democratic Republic of the Congo	Africa	67,827,000	28,000,000	25,110,000	31,190,000
+2.	 France	Europe	65,350,000	64,000,000	64,000,000	65,350,000
+3.	 Canada	North America	34,207,000	7,741,955	2,848,745	10,590,700
+4.	 Madagascar	Africa	21,146,551	865,000	2,664,200	4,020,200
+5.	 Cameroon	Africa	19,958,692	2,950,300	4,393,100	7,200,000
+6.	 Ivory Coast	Africa	21,571,060	12,740,000	NA	1,600,000
+7.	 Burkina Faso	Africa	16,287,000	695,000	NA	3,260,000
+8.	 Niger	Africa	15,891,000	1,260,000	NA	1,910,000
+9.	 Senegal	Africa	12,861,259	1,170,000	2,457,000	3,630,000
+10.	 Mali	Africa	14,517,029	1,107,000	NA	2,390,000
+11.	 Rwanda	Africa	10,277,282	609,000	174,000	310,000
+12.	 Belgium	Europe	10,827,951	4,300,000	2,000,000	6,830,000
+13.	 Guinea	Africa	10,324,437	2,000,000	4,000,000	2,270,000
+14.	 Chad	Africa	11,274,337	1,940,000	NA	1,610,000
+15.	 Haiti	Central America	10,188,000	5,664,000	5,622,500	4,280,000
+16.	 Burundi	Africa	8,519,005	390,000	234,000	680,000
+17.	 Benin	Africa	9,212,000	739,200	1,402,800	2,940,000
+18.	  Switzerland	Europe	7,782,520	1,509,600	2,072,000	5,400,000
+19.	 Togo	Africa	6,780,000	2,000,000	NA	2,240,000
+20.	 Central African Republic	Africa	4,410,873	945,000	NA	1,310,000
+21.	 Republic of the Congo	Africa	4,043,318	1,200,000	1,200,000	2,130,000
+22.	 Gabon	Africa	1,501,000	1,120,000	NA	NA
+23.	 Comoros	Africa	734,750	312,200	NA	150,000
+24.	 Equatorial Guinea	Africa	700,401	100,000	200,000	190,000
+25.	 Djibouti	Africa	888,716	159,800		450,000
+26.	 Luxembourg	Europe	506,953	430,000	20,000	440,000
+27.	 Vanuatu	Oceania	239,651	99,000	NA	99,000[not in citation given]
+28.	 Seychelles	Africa	86,525	4,000	44,000	90,000
+29.	 Monaco	Europe	35,407	23,400	NA	30,000

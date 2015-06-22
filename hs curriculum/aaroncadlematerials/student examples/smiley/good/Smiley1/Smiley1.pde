@@ -1,0 +1,64 @@
+
+void setup()
+{
+  size(1366,680);
+  background(80,6,25);
+}
+void draw()
+{
+  fill(0);
+  background(80,6,25);
+  text(mouseX + " " + mouseY, 100,50);  
+  fill(0,65,252);
+  ellipse(width/2,height/2,600,600);
+  noFill();
+  ellipse(width/2,height/2,600,600);
+  stroke(0);
+  strokeWeight(10);
+  fill(0);
+  stroke(10);
+  fill(0,246,252);
+  ellipse(535,235,100,100);
+  ellipse(810,235,100,100);
+  fill(255);
+  ellipse(535,235,50,50);
+  ellipse(810,235,50,50);
+  arc(width/2,400,300,200,0,PI);
+  noFill();
+  beginShape();
+  curveVertex(668,207);
+  curveVertex(668,245);
+  curveVertex(640,296);
+  curveVertex(657,306);
+  curveVertex(697,307);
+  curveVertex(684,307);
+  endShape();
+  beginShape();
+  curveVertex(411,470);
+  curveVertex(447,497);
+  curveVertex(467,526);
+  curveVertex(489,566);
+  curveVertex(550,605);
+  curveVertex(666,670);
+  curveVertex(670,669);
+  curveVertex(889,555);
+  curveVertex(917,498);
+  curveVertex(945,474);
+  endShape();
+  line(532,394,832,394);
+  beginShape();
+  stroke(0,209,8);
+  strokeWeight(20);
+  curveVertex(491,161); 
+  curveVertex(506,156);
+  curveVertex(532,153);
+  curveVertex(562,161);
+  endShape();
+  beginShape();
+  curveVertex(791,161); 
+  curveVertex(806,156);
+  curveVertex(832,153);
+  curveVertex(862,161);
+  endShape();
+}
+
