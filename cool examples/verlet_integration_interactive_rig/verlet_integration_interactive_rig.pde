@@ -5,10 +5,12 @@
  *  -with free rotational velocity
  */
 
-int particles = 5;
+int particles = 10;
 VerletBall[] balls = new VerletBall[particles];
 int bonds = particles-1;
 VerletStick[] sticks = new VerletStick[bonds];
+
+PVector[] rectNodes = new PVector[particles*2];
 
 void setup() {
   size(400, 400);
@@ -37,10 +39,30 @@ void draw() {
   for (int i=0; i<particles; i++) {
     if (i<particles-1) {
       balls[i].verlet();
+
+      // calculate rect cage
+      PVector temp = new PVector();
+      temp.set(balls[i+1].pos);
+      temp.sub(balls[i].pos);
+
+      println("balls[i+1].pos = " + balls[i+1].pos);
+      println("balls[i].pos = " + balls[i].pos);
+      println("temp = " + temp);
+
+
+      float tx = temp.x;
+      temp.x = -temp.y;
+      temp.y = tx;
+      temp.normalize();
+
+      line( balls[i].pos.x, balls[i].pos.y, balls[i].pos.x+temp.x*35, balls[i].pos.y+temp.y*35);
+      line( balls[i].pos.x, balls[i].pos.y, balls[i].pos.x+temp.x*-35, balls[i].pos.y+temp.y*-35);
     }
     balls[i].render();
     balls[i].boundsCollision();
   }
+
+
 
   if (mousePressed) {
     if (mouseX > balls[0].pos.x-12 && mouseX < balls[0].pos.x+12 &&
